@@ -1,20 +1,19 @@
 {
-    "token": "token here",
+    "token": "",
 
-    "prefix": ";",
+    "prefix": ">",
 
     "MONGO": "mongodb here",
 
     "owner": [
-        "ownerid here",
-        ""
+        "ownerid here"
     ],
 
     "extraowners": [],
 
     "reportChannel": "report channel id",
 
-    "support_server_link": "https://discord.gg/aerox",
+    "support_server_link": "https://discord.gg/9nKHrnWZqV",
 
-    "inviteURL": "https://discord.gg/aerox"
+    "inviteURL": "https://discord.gg/9nKHrnWZqV"
 }
