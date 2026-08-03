@@ -1,12 +1,19 @@
 {
-  "name": "security-bot",
-  "version": "1.0.0",
+  "name": "bezms-security-bot",
+  "version": "1.1.0",
   "main": "src/index.js",
   "license": "MIT",
+
+  "engines": {
+    "node": ">=22"
+  },
+
   "scripts": {
     "start": "node src/cluster.js",
-    "start:no-shard": "node src/index.js"
+    "start:no-shard": "node src/index.js",
+    "dev": "node src/index.js"
   },
+
   "dependencies": {
     "ascii-table": "^0.0.9",
     "bufferutil": "^4.0.8",
